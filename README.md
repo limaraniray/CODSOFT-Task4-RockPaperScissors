@@ -25,6 +25,7 @@
   - [💻 Usage](#-usage)
     - [🏁 Final Results](#-final-results)
   - [📸 Screenshots](#-screenshots)
+  - [](#)
   - [👤 Author](#-author)
   - [📄 License](#-license)
   - [🏷️ Tags](#️-tags)
@@ -135,13 +136,9 @@ Play another round? (y/n): y
 👋 Thanks for playing!
 ```
 
----
-
 ## 📸 Screenshots
 
-> Run the script and play in your terminal window.
-
----
+## ![Contact Book terminal UI](Screenshot.png)
 
 ## 👤 Author
 
